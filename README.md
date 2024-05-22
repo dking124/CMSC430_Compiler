@@ -96,6 +96,6 @@ To use the compiler, you will need to create a txt file or use the given test fi
 ```
 ./compile < "semantic_tests/semantic8.txt"
 ```
-![Semantic Test](/relative/path/to/img.jpg?raw=true "Optional Title")
+![Semantic Test](/semantic8.png?raw=true "Semantic Test")
 
 The compiler will state the types of errors in your txt file that do not comply with the grammar, so adjust until it compiles successfully. 
